@@ -103,7 +103,7 @@ namespace Binary_Search_Homework // don't edit this line!!!
             {
                 return secound - first + 1;
             }
-            return -1;
+            return -1; 
         }
     }
 }
